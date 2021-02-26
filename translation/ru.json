@@ -1,0 +1,72 @@
+{
+    "translation": {
+        "loading": "Загрузка",
+        "attention": "Внимание",
+        "mb": "МБ",
+        "chat": {
+            "thePictureWasSentSuccessfully": "Фото было успешно отправлено",
+            "theFileWasSentSuccessfully": "Файл был успешно отправлен",
+            "sendingAPictureSuccessfully": "Успешная отправка изображения",
+            "sendFileSuccessfully": "Успешно отправить файл"
+        },
+        "quotation": {
+            "moduleName": "Расчёт",
+            "additionalInformation": "Доп. информация",
+            "specifications": "Характеристики",
+            "openChat": "Чат с менеджером",
+            "item": "Позиция",
+            "selectQuotation": "Выбрать расчёт",
+            "status": "Статус расчёта",
+            "chatEmpty": "Оставьте свой комментарий по данному товару",
+            "approved": "Утверждено",
+            "liked": "Понравилось",
+            "approve": "Утвердить",
+            "like": "Нравится",
+            "dislike": "Не нравится",
+            "rejected": "Отклонено",
+            "disliked": "Не понравилось",
+            "reject": "Отклонить",
+            "cancel": "Поменять статус",
+            "send": "Отправить",
+            "total": "Кол-во позиций",
+            "declined": "Отклонено",
+            "photo": "Фото",
+            "file": "Файл",
+            "yourQuotations": "Мои расчёты",
+            "theQuotationWasNotFoundPleaseContactOurManagerIfYouHaveAnyQuestions": "Расчёт не найден, обратитесь к нашему менеджеру",
+            "pleaseEnterYourMessage": "Введите ваше сообщение",
+            "image": "Изображение",
+            "previous": "Предыдущий",
+            "next": "Следующий",
+            "previewPicture": "Предварительный просмотр изображения",
+            "yesterday": "Вчера",
+            "draft": "Черновик",
+            "dragHereToSend": "Перетяните файл сюда",
+            "allFilesWillBeAccepted": "Все файлы будут отправлены",
+            "someFilesWillBeRejected": "Часть файлов не будет отправлена",
+            "empty": "Других расчётов не найдено",
+            "generalQuestions": "Общие вопросы",
+            "generalQuestionsButton": "Чат по общим вопросам",
+            "filters": {
+                "all": "Показать все",
+                "approved": "Только утвержденные",
+                "liked": "Только понравившиеся",
+                "declined": "Только отклоненные",
+                "disliked": "Только непонравившиеся",
+                "pending": "Только рассматриваемые",
+                "notApproved": "Все кроме утвержденных",
+                "notLiked": "Все кроме понравившихся",
+                "notDeclined": "Все кроме отклоненных",
+                "notDisliked": "Все кроме непонравившихся",
+                "notPending": "Все кроме рассматриваемых"
+            }
+        },
+        "error": {
+            "fileFormatIsIncorrect": "Неподдерживаемый формат файла",
+            "fileSizeShouldBeLessThan": "Размер файла не должен превышать",
+            "fileSizeShouldBeMoreThan": "Размер файла должен быть не меньше",
+            "theNumberOfFilesShouldBeLessThan": "Количество файлов за раз не должно превышать",
+            "fileError": "Ошибка отправки файла"
+        }
+    }
+}

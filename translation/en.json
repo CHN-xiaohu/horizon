@@ -1,0 +1,72 @@
+{
+    "translation": {
+        "loading": "Loading",
+        "attention": "Error",
+        "mb": "MB",
+        "chat": {
+            "thePictureWasSentSuccessfully": "The picture was successfully sent ",
+            "theFileWasSentSuccessfully": "The file was successfully sent",
+            "sendingAPictureSuccessfully": "Sending a Picture Successfully",
+            "sendFileSuccessfully": "Send file successfully"
+        },
+        "quotation": {
+            "moduleName": "Quotation",
+            "additionalInformation": "Additional information",
+            "specifications": "Specifications",
+            "openChat": "Chat with manager",
+            "item": "Item",
+            "status": "Quotation stats",
+            "selectQuotation": "Select quotation",
+            "chatEmpty": "You haven't commented on this product yet",
+            "approved": "Approved",
+            "liked": "Liked",
+            "approve": "Approve",
+            "like": "Like",
+            "rejected": "Rejected",
+            "reject": "Reject",
+            "dislike": "Dislike",
+            "disliked": "Disliked",
+            "cancel": "Change status",
+            "send": "Send",
+            "total": "Total",
+            "declined": "Declined",
+            "photo": "Photo",
+            "file": "File",
+            "yourQuotations": "Your quotations",
+            "backToMyQuotations": "Back to my quotations",
+            "theQuotationWasNotFoundPleaseContactOurManagerIfYouHaveAnyQuestions": "The quotation was not found, please contact our manager",
+            "pleaseEnterYourMessage": "Please enter your message",
+            "image": "Image",
+            "previous": "Previous",
+            "next": "Next",
+            "previewPicture": "Preview picture",
+            "yesterday": "Yesterday",
+            "draft": "Draft",
+            "dragHereToSend": "Drag here to send",
+            "allFilesWillBeAccepted": "All files will be accepted",
+            "someFilesWillBeRejected": "Some files will be rejected",
+            "empty": "No quotations",
+            "generalQuestions": "General questions",
+            "generalQuestionsButton": "General questions chat",
+            "filters": {
+                "all": "Show all",
+                "approved": "Only approved",
+                "liked": "Only liked",
+                "declined": "Only liked",
+                "disliked": "Only disliked",
+                "pending": "Only pending",
+                "notApproved": "All except approved",
+                "notLiked": "All except liked",
+                "notDisliked": "All except disliked",
+                "notPending": "All except pending"
+            }
+        },
+        "error": {
+            "fileFormatIsIncorrect": "file format is incorrect",
+            "fileSizeShouldBeLessThan": "Maximum file size",
+            "fileSizeShouldBeMoreThan": "Minimum file size",
+            "theNumberOfFilesShouldBeLessThan": "Amount of files should not exceed",
+            "fileError": "file error"
+        }
+    }
+}
